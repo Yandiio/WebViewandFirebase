@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WebViewandFirebase</string>
+    <array name="genres">
+        <item>Peterpan</item>
+        <item>SheilaOn7</item>
+        <item>BandTulss</item>
+        <item>Nidji</item>
+    </array>
+</resources>
